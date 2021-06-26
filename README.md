@@ -1,4 +1,4 @@
-<h1 align='center'> Hello World!👋 I'm Nin. Welcome to my GitHub! :space_invader: </h1>
+<h1 align='center'> Hello World!👋 I'm Eve. Welcome to my GitHub! :space_invader: </h1>
 
 <p align="center">
   <img src="https://github.com/ninsyloo/ninsyloo/blob/main/Yellow%20Red%20Tan%20Playful%20%26%20Celebratory%20Traditional%20Graduation%20Banner.gif">
@@ -20,7 +20,7 @@
 </p>
 <p></p>
 <h1 align='center'>A Little Bit About Me :hamster:</h1>
-<p>I am a former ghost-writer 👻 that started her journey through this new and amazing world not long ago, I am still in the process of learning and sharpening skills, but I am absolutely thrilled to share my progress with all of you!<p>
+<p>I am a former ghost-writer 👻 that started her journey through this new and amazing world not long ago, I am still in the process of learning and sharpening my skills, but I am absolutely thrilled to share my progress with all of you!<p>
 <p></p>
 <h1 align='center'>Technologies :stars: </h1>
 
