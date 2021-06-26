@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there!👋 I'm Nin. Welcome to my GitHub! :space_invader: </h1>
+<h1 align='center'> Hello World!👋 I'm Nin. Welcome to my GitHub! :space_invader: </h1>
 
 <p align="center">
   <img src="https://github.com/ninsyloo/ninsyloo/blob/main/Yellow%20Red%20Tan%20Playful%20%26%20Celebratory%20Traditional%20Graduation%20Banner.gif">
@@ -18,6 +18,27 @@
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
 </p>
+<p></p>
+<h1 align='center'>A Little Bit About Me :hamster:</h1>
+<p>I am a former ghost-writer 👻 that started her journey through this new and amazing world not long ago, I am still in the process of learning and sharpening skills, but I am absolutely thrilled to share my progress with all of you!<p>
+<p></p>
+<h1 align='center'>Technologies :stars: </h1>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 <!--
 **ninsyloo/ninsyloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
