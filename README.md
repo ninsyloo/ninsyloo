@@ -38,6 +38,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<p></p>
+<h1>My Stats :bomb:</h1>
+<img align='center' alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api?username=ninsyloo"/> 
 
 <!--
 **ninsyloo/ninsyloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
