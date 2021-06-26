@@ -1,5 +1,4 @@
-# Hi there!👋 I'm Nin 
-## Welcome to my GitHub! :space_invader:
+# Hi there!👋 I'm Nin. Welcome to my GitHub! :space_invader:
 
 
 <!--
