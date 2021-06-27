@@ -1,7 +1,7 @@
 <h1 align='center'> Hello World!👋 I'm Eve. Welcome to my GitHub! :space_invader: </h1>
 
 <p align="center">
-  <img src="https://github.com/ninsyloo/ninsyloo/blob/main/Yellow%20Red%20Tan%20Playful%20%26%20Celebratory%20Traditional%20Graduation%20Banner.gif">
+  <img src="https://github.com/ninsyloo/ninsyloo/blob/main/bannergithub.png">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 <p></p>
 <h1 align='center'>A Little Bit About Me :hamster:</h1>
-<p>I am a former ghost-writer 👻 that started a journey through this new and amazing world not long ago -- as I also went discovering - how much I actually love coding! Honestly, the only thing I regret is not doing it sooner, but here I am now nontheless, in the process of learning and improving my skills, absolutely thrilled to collaborate and share my progress with all of you!<p>
+<p>I am a former ghost-writer 👻 that started a journey through this new and amazing world not long ago and discovered how much I actually love coding! Honestly, the only thing I regret is not doing it sooner, but here I am now nontheless, in the process of learning and improving my skills, absolutely thrilled to collaborate and share my progress with all of you!<p>
 <p></p>
 <h1 align='center'>Technologies :stars: </h1>
 
