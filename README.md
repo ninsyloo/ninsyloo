@@ -20,7 +20,7 @@
 </p>
 <p></p>
 <h1 align='center'>A Little Bit About Me :hamster:</h1>
-<p>I am a former ghost-writer 👻 that started a journey through this new and amazing world not long ago and discovered how much I actually love coding! Honestly, the only thing I regret is not doing it sooner, but here I am now nontheless, in the process of learning and improving my skills, absolutely thrilled to collaborate and share my progress with all of you!<p>
+<p>👻 I started a journey through this new and amazing world not long ago and discovered how much I actually love coding! Honestly, the only thing I regret is not doing it sooner, but here I am now nontheless, in the process of learning and improving my skills, absolutely thrilled to collaborate and share my progress with all of you!<p>
 <p></p>
 <h1 align='center'>Technologies :stars: </h1>
 
